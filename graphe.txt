@@ -1,0 +1,16 @@
+{A, B, C, D, E, F, G, H, I, J}
+A-B-1
+A-C-2
+B-D-2
+B-F-3
+C-D-3
+C-E-4
+D-F-3
+D-G-3
+D-E-2
+F-G-4
+E-G-5
+A-H-2
+H-I-1
+I-J-1
+J-G-1
